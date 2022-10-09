@@ -5,8 +5,7 @@ header {
 
 #wrapper {
   display: flex;
-  position: sticky;
-  
+  width: 1000px;
 }
 
 #main {
